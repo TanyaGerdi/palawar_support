@@ -16,8 +16,10 @@
 
 ### Web / Email Deletion Request
 If you have uninstalled the app or cannot log in, email our support desk:
-- **Email:** [support@palawar.com](mailto:support@palawar.com)
+- **Email:** [sdsoftteach@gmail.com](mailto:sdsoftteach@gmail.com)
+- **Phone:** [+964 750 460 0496](tel:+9647504600496) (07504600496)
 - **Subject:** Palawar Account Deletion Request
 - **Include:** Registered phone number and full name.
 
 All requests are processed and matching server records purged within 24 to 48 hours.
+

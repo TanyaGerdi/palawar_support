@@ -5,8 +5,8 @@
 ---
 
 ## Direct Contacts
-- **Customer Support Email:** [support@palawar.com](mailto:support@palawar.com)
-- **Technical Inquiries:** [tanyagerdi@gmail.com](mailto:tanyagerdi@gmail.com)
+- **Customer Support Email:** [sdsoftteach@gmail.com](mailto:sdsoftteach@gmail.com)
+- **Direct Phone / WhatsApp:** [+964 750 460 0496](tel:+9647504600496) (07504600496)
 - **Response Time:** Within 24 business hours
 
 ---
@@ -16,4 +16,5 @@
 2. **Guest Mode:** Guests can explore market pricing and public directory listings. Registered accounts are required for chats, consultations, and wallet operations.
 3. **Physical Goods Order:** Live poultry deliveries are coordinated locally and settled via physical commercial delivery outside Apple In-App Purchase in compliance with Guideline 3.1.5(a).
 4. **Safety & Moderation:** Report objectionable content or block abusive users directly inside any chat session via the 3-dots options menu.
-5. **Account Deletion:** Delete account in-app via Profile -> Delete Account, or submit an email request to `support@palawar.com`.
+5. **Account Deletion:** Delete account in-app via Profile -> Delete Account, or submit an email request to `sdsoftteach@gmail.com`.
+

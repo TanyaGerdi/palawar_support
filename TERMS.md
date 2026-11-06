@@ -31,5 +31,6 @@ In compliance with Apple Guideline 1.2:
 All poultry listings, broilers, layers, and feed orders represent **physical goods consumed outside the digital software**. In accordance with Apple App Store Review Guideline 3.1.5(a), physical goods are exempt from Apple In-App Purchase and settled outside the app via local ground logistics.
 
 ## 5. Contact
-- Abuse reports: [support@palawar.com](mailto:support@palawar.com)
-- Developer: [tanyagerdi@gmail.com](mailto:tanyagerdi@gmail.com)
+- Support & Abuse reports: [sdsoftteach@gmail.com](mailto:sdsoftteach@gmail.com)
+- Phone / WhatsApp: [+964 750 460 0496](tel:+9647504600496) (07504600496)
+

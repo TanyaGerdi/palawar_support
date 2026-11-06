@@ -23,11 +23,12 @@ Direct web links (hosted via GitHub Pages & repository):
 
 ## 📬 Contact & Support Channels
 
-- **Official Support Email**: [support@palawar.com](mailto:support@palawar.com)
-- **Technical & Developer Lead**: [tanyagerdi@gmail.com](mailto:tanyagerdi@gmail.com)
+- **Official Support Email**: [sdsoftteach@gmail.com](mailto:sdsoftteach@gmail.com)
+- **Direct Phone / WhatsApp**: [+964 750 460 0496](tel:+9647504600496) (07504600496)
 - **App Platform**: iOS (Apple App Store)
 - **Developer**: SD SOFT / Twana Ibrahimi
 
 ---
 
 &copy; 2026 Palawar Platform. All rights reserved.
+

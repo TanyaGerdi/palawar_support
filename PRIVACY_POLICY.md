@@ -36,5 +36,6 @@ Users may permanently delete their account and associated data directly in the a
 
 ## 6. Contact Us
 For privacy questions:
-- Email: [support@palawar.com](mailto:support@palawar.com)
-- Developer: [tanyagerdi@gmail.com](mailto:tanyagerdi@gmail.com)
+- Email: [sdsoftteach@gmail.com](mailto:sdsoftteach@gmail.com)
+- Phone: [+964 750 460 0496](tel:+9647504600496) (07504600496)
+
