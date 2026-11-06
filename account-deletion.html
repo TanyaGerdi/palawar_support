@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Account & Data Deletion - Palawar</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Noto+Sans+Arabic:wght@400;600;700&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --primary: #192440;
+      --accent: #F59E0B;
+      --danger: #EF4444;
+      --bg: #F8FAFC;
+      --card-bg: #FFFFFF;
+      --text: #0F172A;
+      --text-muted: #64748B;
+      --border: #E2E8F0;
+      --radius: 16px;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+      background-color: var(--bg);
+      color: var(--text);
+      line-height: 1.7;
+      padding: 40px 20px;
+    }
+
+    .container { max-width: 860px; margin: 0 auto; }
+    
+    .back-nav {
+      margin-bottom: 24px;
+    }
+    .back-nav a {
+      color: var(--primary);
+      text-decoration: none;
+      font-weight: 600;
+      font-size: 14px;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    .header-box {
+      background: white;
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 36px;
+      margin-bottom: 32px;
+      box-shadow: 0 4px 14px rgba(0,0,0,0.02);
+    }
+
+    h1 {
+      font-size: 30px;
+      font-weight: 800;
+      color: var(--primary);
+      margin-bottom: 8px;
+    }
+
+    .meta {
+      font-size: 13.5px;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+
+    .content-box {
+      background: white;
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 36px;
+      margin-bottom: 32px;
+      box-shadow: 0 4px 14px rgba(0,0,0,0.02);
+    }
+
+    .step-box {
+      background: #F8FAFC;
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 24px;
+      margin: 20px 0;
+    }
+
+    .step-item {
+      display: flex;
+      gap: 16px;
+      margin-bottom: 18px;
+    }
+
+    .step-item:last-child {
+      margin-bottom: 0;
+    }
+
+    .step-num {
+      width: 32px;
+      height: 32px;
+      border-radius: 50%;
+      background: var(--primary);
+      color: white;
+      font-weight: 700;
+      font-size: 14px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-shrink: 0;
+    }
+
+    .step-text h4 {
+      font-size: 15px;
+      font-weight: 700;
+      color: var(--primary);
+      margin-bottom: 4px;
+    }
+
+    .step-text p {
+      font-size: 14px;
+      color: #475569;
+      margin-bottom: 0;
+    }
+
+    .deletion-form-card {
+      background: #FFFBEB;
+      border: 1px solid #FDE68A;
+      border-radius: 12px;
+      padding: 24px;
+      margin-top: 24px;
+    }
+
+    .deletion-form-card h3 {
+      font-size: 17px;
+      font-weight: 700;
+      color: #92400E;
+      margin-bottom: 8px;
+    }
+
+    .deletion-form-card p {
+      font-size: 14px;
+      color: #78350F;
+      margin-bottom: 16px;
+    }
+
+    .btn-mail {
+      display: inline-block;
+      background: var(--primary);
+      color: white;
+      padding: 12px 24px;
+      border-radius: 10px;
+      text-decoration: none;
+      font-weight: 700;
+      font-size: 14px;
+    }
+
+    h2 {
+      font-size: 19px;
+      font-weight: 700;
+      color: var(--primary);
+      margin-top: 28px;
+      margin-bottom: 12px;
+      border-bottom: 1px solid #F1F5F9;
+      padding-bottom: 8px;
+    }
+
+    h2:first-of-type { margin-top: 0; }
+
+    p {
+      font-size: 15px;
+      color: #334155;
+      margin-bottom: 16px;
+    }
+
+    ul {
+      margin-left: 24px;
+      margin-bottom: 20px;
+      color: #334155;
+      font-size: 15px;
+    }
+
+    footer {
+      text-align: center;
+      font-size: 13px;
+      color: var(--text-muted);
+      border-top: 1px solid var(--border);
+      padding-top: 24px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="back-nav">
+      <a href="index.html">&larr; Back to Palawar Portal</a>
+    </div>
+
+    <div class="header-box">
+      <h1>Account & Personal Data Deletion Request</h1>
+      <div class="meta">Apple App Store Guideline 5.1.1 (Data Retention and Erasure Compliance)</div>
+      <p>Palawar respects your right to privacy and full control over your personal information. You can permanently delete your Palawar account and all associated data at any time.</p>
+    </div>
+
+    <div class="content-box">
+      <h2>Option 1: In-App Self-Service Deletion (Immediate)</h2>
+      <p>The fastest way to permanently erase your account is directly inside the Palawar iOS application:</p>
+      
+      <div class="step-box">
+        <div class="step-item">
+          <div class="step-num">1</div>
+          <div class="step-text">
+            <h4>Open the Side Navigation Drawer</h4>
+            <p>From the home screen of any portal, tap your profile avatar or the menu icon at the top corner.</p>
+          </div>
+        </div>
+
+        <div class="step-item">
+          <div class="step-num">2</div>
+          <div class="step-text">
+            <h4>Select Profile / Account Settings</h4>
+            <p>Tap on your name/profile card to access account details.</p>
+          </div>
+        </div>
+
+        <div class="step-item">
+          <div class="step-num">3</div>
+          <div class="step-text">
+            <h4>Tap "Delete Account" (سڕینەوەی هەژمار)</h4>
+            <p>Scroll to the bottom and select "Delete Account". A confirmation modal will appear.</p>
+          </div>
+        </div>
+
+        <div class="step-item">
+          <div class="step-num">4</div>
+          <div class="step-text">
+            <h4>Confirm Permanent Deletion</h4>
+            <p>Confirm the prompt. The app immediately purges your active authentication session, invalidates push tokens on Pusher Beams, deletes local caches, and calls the API deletion endpoint.</p>
+          </div>
+        </div>
+      </div>
+
+      <h2>Option 2: Online Deletion Request (Web-based)</h2>
+      <p>If you have already uninstalled the app or cannot log in, you can request immediate manual deletion by contacting our privacy compliance team:</p>
+
+      <div class="deletion-form-card">
+        <h3>Submit an Erasure Request via Email</h3>
+        <p>Please send an email from or referencing the phone number / email associated with your Palawar account. Our administrators process and purge all matching records within 24 to 48 hours.</p>
+        <a class="btn-mail" href="mailto:support@palawar.com?subject=Palawar%20Account%20Deletion%20Request&body=Hello%20Palawar%20Team%2C%0A%0APlease%20permanently%20delete%20my%20account%20and%20all%20associated%20data.%0A%0ARegistered%20Phone%20Number%3A%20%0ARegistered%20Name%3A%20%0A%0AThank%20you.">Send Deletion Request Email</a>
+      </div>
+
+      <h2>What Data is Deleted?</h2>
+      <p>Upon account deletion, the following data is permanently erased from active production databases:</p>
+      <ul>
+        <li><strong>Profile Information:</strong> Full name, phone number, email address, and profile photo.</li>
+        <li><strong>Messaging & Chats:</strong> All live chat messages, voice notes, and media attachments sent by you.</li>
+        <li><strong>Device Identifiers:</strong> Push notification device tokens, Pusher Beams device interests, and authentication tokens.</li>
+        <li><strong>Location Data:</strong> Any stored shop address or coarse coordinate logs.</li>
+      </ul>
+      <p><em>Note: Completed physical delivery tax receipts or commercial settlement records required by local trade laws are archived for statutory retention periods and cannot be used for any other purpose.</em></p>
+    </div>
+
+    <footer>
+      &copy; 2026 Palawar Platform. Developed by SD SOFT. All rights reserved.
+    </footer>
+  </div>
+</body>
+</html>
